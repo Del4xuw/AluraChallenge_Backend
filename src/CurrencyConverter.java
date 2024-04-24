@@ -15,7 +15,7 @@ public class CurrencyConverter {
         boolean exit = false;
 
         while (!exit) {
-            System.out.println("Sea bienvenido/a al Conversor de Moneda");
+            System.out.println("Sea bienvenido/a al Conversor de Monedas");
             System.out.println("1) Dolar ==> Peso argentino");
             System.out.println("2) Peso argentino ==> Dolar");
             System.out.println("3) Dolar ==> Real brasileño");
